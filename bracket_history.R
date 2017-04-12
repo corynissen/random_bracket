@@ -74,6 +74,8 @@ years <- 2002:2017
 tmp <- lapply(years, get_bracket)
 df <- do.call("rbind", tmp)
 
+write.csv(df, "NCAA_mens_tournament_scores.csv", row.names=FALSE)
+
   
   
  
