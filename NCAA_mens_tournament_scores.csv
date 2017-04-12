@@ -1,0 +1,1009 @@
+"team1_name","team1_rank","team1_score","team2_name","team2_rank","team2_score","round","year"
+"Indiana","5","73","Oklahoma","2 ","64","4",2002
+"Maryland","1","97","Kansas","1 ","88","4",2002
+"Indiana","5 ","52","Maryland","1","64","2",2002
+"Duke","1","84","Winthrop","16 ","37","64",2002
+"Notre Dame","8","82","Charlotte","9 ","63","64",2002
+"Indiana","5","75","Utah","12 ","56","64",2002
+"USC","4 ","89","UNC Wilmington","13","93","64",2002
+"Cal","6","82","Penn","11 ","75","64",2002
+"Pitt","3","71","Cent Conn St","14 ","54","64",2002
+"Oklahoma State","7 ","61","Kent State","10","69","64",2002
+"Alabama","2","86","FAU","15 ","78","64",2002
+"Duke","1","84","Notre Dame","8 ","77","32",2002
+"Indiana","5","76","UNC Wilmington","13 ","67","32",2002
+"Cal","6 ","50","Pitt","3","63","32",2002
+"Kent State","10","71","Alabama","2 ","58","32",2002
+"Duke","1 ","73","Indiana","5","74","16",2002
+"Pitt","3 ","73","Kent State","10","78","16",2002
+"Indiana","5","81","Kent State","10 ","69","8",2002
+"Cincinnati","1","90","Boston U","16 ","52","64",2002
+"UCLA","8","80","Ole Miss","9 ","58","64",2002
+"Miami","5 ","80","Missouri","12","93","64",2002
+"OSU","4","69","Davidson","13 ","64","64",2002
+"Gonzaga","6 ","66","Wyoming","11","73","64",2002
+"Arizona","3","86","UCSB","14 ","81","64",2002
+"Xavier","7","70","Hawai'i","10 ","58","64",2002
+"Oklahoma","2","71","UIC","15 ","63","64",2002
+"Cincinnati","1 ","101","UCLA","8","105","32",2002
+"Missouri","12","83","OSU","4 ","67","32",2002
+"Wyoming","11 ","60","Arizona","3","68","32",2002
+"Xavier","7 ","65","Oklahoma","2","78","32",2002
+"UCLA","8 ","73","Missouri","12","82","16",2002
+"Arizona","3 ","67","Oklahoma","2","88","16",2002
+"Missouri","12 ","75","Oklahoma","2","81","8",2002
+"Maryland","1","85","Siena","16 ","70","64",2002
+"Wisconsin","8","80","St John's","9 ","70","64",2002
+"Marquette","5 ","69","Tulsa","12","71","64",2002
+"Kentucky","4","83","Valparaiso","13 ","68","64",2002
+"Texas Tech","6 ","68","S Illinois","11","76","64",2002
+"Georgia","3","85","Murray State","14 ","68","64",2002
+"NC State","7","69","Michigan State","10 ","58","64",2002
+"UConn","2","78","Hampton","15 ","67","64",2002
+"Maryland","1","87","Wisconsin","8 ","57","32",2002
+"Tulsa","12 ","82","Kentucky","4","87","32",2002
+"S Illinois","11","77","Georgia","3 ","75","32",2002
+"NC State","7 ","74","UConn","2","77","32",2002
+"Maryland","1","78","Kentucky","4 ","68","16",2002
+"S Illinois","11 ","59","UConn","2","71","16",2002
+"Maryland","1","90","UConn","2 ","82","8",2002
+"Kansas","1","70","Holy Cross","16 ","59","64",2002
+"Stanford","8","84","W Kentucky","9 ","68","64",2002
+"Florida","5 ","82","Creighton","12","83","64",2002
+"Illinois","4","93","San Diego State","13 ","64","64",2002
+"Texas","6","70","Boston College","11 ","57","64",2002
+"Miss St","3","70","McNeese","14 ","58","64",2002
+"Wake Forest","7","83","Pepperdine","10 ","74","64",2002
+"Oregon","2","81","Montana","15 ","62","64",2002
+"Kansas","1","86","Stanford","8 ","63","32",2002
+"Creighton","12 ","60","Illinois","4","72","32",2002
+"Texas","6","68","Miss St","3 ","64","32",2002
+"Wake Forest","7 ","87","Oregon","2","92","32",2002
+"Kansas","1","73","Illinois","4 ","69","16",2002
+"Texas","6 ","70","Oregon","2","72","16",2002
+"Kansas","1","104","Oregon","2 ","86","8",2002
+"Marquette","3 ","61","Kansas","2","94","4",2003
+"Texas","1 ","84","Syracuse","3","95","4",2003
+"Kansas","2 ","78","Syracuse","3","81","2",2003
+"Kentucky","1","95","IUPUI","16 ","64","64",2003
+"Oregon","8 ","58","Utah","9","60","64",2003
+"Wisconsin","5","81","Weber State","12 ","74","64",2003
+"Dayton","4 ","71","Tulsa","13","84","64",2003
+"Missouri","6","72","S Illinois","11 ","71","64",2003
+"Marquette","3","72","Holy Cross","14 ","68","64",2003
+"Indiana","7","67","Alabama","10 ","62","64",2003
+"Pitt","2","87","Wagner","15 ","61","64",2003
+"Kentucky","1","74","Utah","9 ","54","32",2003
+"Wisconsin","5","61","Tulsa","13 ","60","32",2003
+"Missouri","6 ","92","Marquette","3","101","32",2003
+"Indiana","7 ","52","Pitt","2","74","32",2003
+"Kentucky","1","63","Wisconsin","5 ","57","16",2003
+"Marquette","3","77","Pitt","2 ","74","16",2003
+"Kentucky","1 ","69","Marquette","3","83","8",2003
+"Arizona","1","80","Vermont","16 ","51","64",2003
+"Cincinnati","8 ","69","Gonzaga","9","74","64",2003
+"Notre Dame","5","70","Milwaukee","12 ","69","64",2003
+"Illinois","4","65","W Kentucky","13 ","60","64",2003
+"Creighton","6 ","73","Cent Michigan","11","79","64",2003
+"Duke","3","67","Colorado State","14 ","57","64",2003
+"Memphis","7 ","71","Arizona State","10","84","64",2003
+"Kansas","2","64","Utah State","15 ","61","64",2003
+"Arizona","1","96","Gonzaga","9 ","95","32",2003
+"Notre Dame","5","68","Illinois","4 ","60","32",2003
+"Cent Michigan","11 ","60","Duke","3","86","32",2003
+"Arizona State","10 ","76","Kansas","2","108","32",2003
+"Arizona","1","88","Notre Dame","5 ","71","16",2003
+"Duke","3 ","65","Kansas","2","69","16",2003
+"Arizona","1 ","75","Kansas","2","78","8",2003
+"Texas","1","82","UNC Asheville","16 ","61","64",2003
+"LSU","8 ","56","Purdue","9","80","64",2003
+"UConn","5","58","BYU","12 ","53","64",2003
+"Stanford","4","77","San Diego","13 ","69","64",2003
+"Maryland","6","75","UNC Wilmington","11 ","73","64",2003
+"Xavier","3","71","Troy","14 ","59","64",2003
+"Michigan State","7","79","Colorado","10 ","64","64",2003
+"Florida","2","85","Sam Houston","15 ","55","64",2003
+"Texas","1","77","Purdue","9 ","67","32",2003
+"UConn","5","85","Stanford","4 ","74","32",2003
+"Maryland","6","77","Xavier","3 ","64","32",2003
+"Michigan State","7","68","Florida","2 ","46","32",2003
+"Texas","1","82","UConn","5 ","78","16",2003
+"Maryland","6 ","58","Michigan State","7","60","16",2003
+"Texas","1","85","Michigan State","7 ","76","8",2003
+"Oklahoma","1","71","S Carolina St","16 ","54","64",2003
+"Cal","8","76","NC State","9 ","74","64",2003
+"Miss St","5 ","46","Butler","12","47","64",2003
+"Louisville","4","86","Austin Peay","13 ","64","64",2003
+"Oklahoma State","6","77","Penn","11 ","63","64",2003
+"Syracuse","3","76","Manhattan","14 ","65","64",2003
+"Saint Joe's","7 ","63","Auburn","10","65","64",2003
+"Wake Forest","2","76","ETSU","15 ","73","64",2003
+"Oklahoma","1","74","Cal","8 ","65","32",2003
+"Butler","12","79","Louisville","4 ","71","32",2003
+"Oklahoma State","6 ","56","Syracuse","3","68","32",2003
+"Auburn","10","68","Wake Forest","2 ","62","32",2003
+"Oklahoma","1","65","Butler","12 ","54","16",2003
+"Syracuse","3","79","Auburn","10 ","78","16",2003
+"Oklahoma","1 ","47","Syracuse","3","63","8",2003
+"Georgia Tech","3","67","Oklahoma State","2 ","65","4",2004
+"Duke","1 ","78","UConn","2","79","4",2004
+"Georgia Tech","3 ","73","UConn","2","82","2",2004
+"Kentucky","1","96","Florida A&M","16 ","76","64",2004
+"Washington","8 ","100","UAB","9","102","64",2004
+"Providence","5 ","58","Pacific","12","66","64",2004
+"Kansas","4","78","UIC","13 ","53","64",2004
+"Boston College","6","58","Utah","11 ","51","64",2004
+"Georgia Tech","3","65","Northern Iowa","14 ","60","64",2004
+"Michigan State","7 ","66","Nevada","10","72","64",2004
+"Gonzaga","2","76","Valparaiso","15 ","49","64",2004
+"Kentucky","1 ","75","UAB","9","76","32",2004
+"Pacific","12 ","63","Kansas","4","78","32",2004
+"Boston College","6 ","54","Georgia Tech","3","57","32",2004
+"Nevada","10","91","Gonzaga","2 ","72","32",2004
+"UAB","9 ","74","Kansas","4","100","16",2004
+"Georgia Tech","3","72","Nevada","10 ","67","16",2004
+"Kansas","4 ","71","Georgia Tech","3","79","8",2004
+"Saint Joe's","1","82","Liberty","16 ","63","64",2004
+"Texas Tech","8","76","Charlotte","9 ","73","64",2004
+"Florida","5 ","60","Manhattan","12","75","64",2004
+"Wake Forest","4","79","VCU","13 ","78","64",2004
+"Wisconsin","6","76","Richmond","11 ","64","64",2004
+"Pitt","3","53","UCF","14 ","44","64",2004
+"Memphis","7","59","South Carolina","10 ","43","64",2004
+"Oklahoma State","2","75","E Washington","15 ","56","64",2004
+"Saint Joe's","1","70","Texas Tech","8 ","65","32",2004
+"Manhattan","12 ","80","Wake Forest","4","84","32",2004
+"Wisconsin","6 ","55","Pitt","3","59","32",2004
+"Memphis","7 ","53","Oklahoma State","2","70","32",2004
+"Saint Joe's","1","84","Wake Forest","4 ","80","16",2004
+"Pitt","3 ","51","Oklahoma State","2","63","16",2004
+"Saint Joe's","1 ","62","Oklahoma State","2","64","8",2004
+"Duke","1","96","Alabama State","16 ","61","64",2004
+"Seton Hall","8","80","Arizona","9 ","76","64",2004
+"Illinois","5","72","Murray State","12 ","53","64",2004
+"Cincinnati","4","80","ETSU","13 ","77","64",2004
+"UNC","6","63","Air Force","11 ","52","64",2004
+"Texas","3","66","Princeton","14 ","49","64",2004
+"Xavier","7","80","Louisville","10 ","70","64",2004
+"Miss St","2","85","Monmouth","15 ","52","64",2004
+"Duke","1","90","Seton Hall","8 ","62","32",2004
+"Illinois","5","92","Cincinnati","4 ","68","32",2004
+"UNC","6 ","75","Texas","3","78","32",2004
+"Xavier","7","89","Miss St","2 ","74","32",2004
+"Duke","1","72","Illinois","5 ","62","16",2004
+"Texas","3 ","71","Xavier","7","79","16",2004
+"Duke","1","66","Xavier","7 ","63","8",2004
+"Stanford","1","71","UTSA","16 ","45","64",2004
+"Alabama","8","65","S Illinois","9 ","64","64",2004
+"Syracuse","5","80","BYU","12 ","75","64",2004
+"Maryland","4","86","UTEP","13 ","83","64",2004
+"Vanderbilt","6","71","W Michigan","11 ","58","64",2004
+"NC State","3","61","UL Lafayette","14 ","52","64",2004
+"DePaul","7","76","Dayton","10 ","69","64",2004
+"UConn","2","70","Vermont","15 ","53","64",2004
+"Stanford","1 ","67","Alabama","8","70","32",2004
+"Syracuse","5","72","Maryland","4 ","70","32",2004
+"Vanderbilt","6","75","NC State","3 ","73","32",2004
+"DePaul","7 ","55","UConn","2","72","32",2004
+"Alabama","8","80","Syracuse","5 ","71","16",2004
+"Vanderbilt","6 ","53","UConn","2","73","16",2004
+"Alabama","8 ","71","UConn","2","87","8",2004
+"Illinois","1","72","Louisville","4 ","57","4",2005
+"UNC","1","87","Michigan State","5 ","71","4",2005
+"Illinois","1 ","70","UNC","1","75","2",2005
+"Illinois","1","67","Fair Dickinson","16 ","55","64",2005
+"Texas","8 ","57","Nevada","9","61","64",2005
+"Alabama","5 ","73","Milwaukee","12","83","64",2005
+"Boston College","4","85","Penn","13 ","65","64",2005
+"LSU","6 ","68","UAB","11","82","64",2005
+"Arizona","3","66","Utah State","14 ","53","64",2005
+"S Illinois","7","65","Saint Mary's","10 ","56","64",2005
+"Oklahoma State","2","63","SE Louisiana","15 ","50","64",2005
+"Illinois","1","71","Nevada","9 ","59","32",2005
+"Milwaukee","12","83","Boston College","4 ","75","32",2005
+"UAB","11 ","63","Arizona","3","85","32",2005
+"S Illinois","7 ","77","Oklahoma State","2","85","32",2005
+"Illinois","1","77","Milwaukee","12 ","63","16",2005
+"Arizona","3","79","Oklahoma State","2 ","78","16",2005
+"Illinois","1","90","Arizona","3 ","89","8",2005
+"Washington","1","88","Montana","16 ","77","64",2005
+"Pacific","8","79","Pitt","9 ","71","64",2005
+"Georgia Tech","5","80","G Washington","12 ","68","64",2005
+"Louisville","4","68","UL Lafayette","13 ","62","64",2005
+"Texas Tech","6","78","UCLA","11 ","66","64",2005
+"Gonzaga","3","74","Winthrop","14 ","64","64",2005
+"West Virginia","7","63","Creighton","10 ","61","64",2005
+"Wake Forest","2","70","Chattanooga","15 ","54","64",2005
+"Washington","1","97","Pacific","8 ","79","32",2005
+"Georgia Tech","5 ","54","Louisville","4","76","32",2005
+"Texas Tech","6","71","Gonzaga","3 ","69","32",2005
+"West Virginia","7","111","Wake Forest","2 ","105","32",2005
+"Washington","1 ","79","Louisville","4","93","16",2005
+"Texas Tech","6 ","60","West Virginia","7","65","16",2005
+"Louisville","4","93","West Virginia","7 ","85","8",2005
+"UNC","1","96","Oakland","16 ","68","64",2005
+"Minnesota","8 ","53","Iowa State","9","64","64",2005
+"Villanova","5","55","New Mexico","12 ","47","64",2005
+"Florida","4","67","Ohio","13 ","62","64",2005
+"Wisconsin","6","57","Northern Iowa","11 ","52","64",2005
+"Kansas","3 ","63","Bucknell","14","64","64",2005
+"Charlotte","7 ","63","NC State","10","75","64",2005
+"UConn","2","77","UCF","15 ","71","64",2005
+"UNC","1","92","Iowa State","9 ","65","32",2005
+"Villanova","5","76","Florida","4 ","65","32",2005
+"Wisconsin","6","71","Bucknell","14 ","62","32",2005
+"NC State","10","65","UConn","2 ","62","32",2005
+"UNC","1","67","Villanova","5 ","66","16",2005
+"Wisconsin","6","65","NC State","10 ","56","16",2005
+"UNC","1","88","Wisconsin","6 ","82","8",2005
+"Duke","1","57","Delaware State","16 ","46","64",2005
+"Stanford","8 ","70","Miss St","9","93","64",2005
+"Michigan State","5","89","Old Dominion","12 ","81","64",2005
+"Syracuse","4 ","57","Vermont","13","60","64",2005
+"Utah","6","60","UTEP","11 ","54","64",2005
+"Oklahoma","3","84","Niagara","14 ","67","64",2005
+"Cincinnati","7","76","Iowa","10 ","64","64",2005
+"Kentucky","2","72","E Kentucky","15 ","64","64",2005
+"Duke","1","63","Miss St","9 ","55","32",2005
+"Michigan State","5","72","Vermont","13 ","61","32",2005
+"Utah","6","67","Oklahoma","3 ","58","32",2005
+"Cincinnati","7 ","60","Kentucky","2","69","32",2005
+"Duke","1 ","68","Michigan State","5","78","16",2005
+"Utah","6 ","52","Kentucky","2","62","16",2005
+"Michigan State","5","94","Kentucky","2 ","88","8",2005
+"LSU","4 ","45","UCLA","2","59","4",2006
+"George Mason","11 ","58","Florida","3","73","4",2006
+"UCLA","2 ","57","Florida","3","73","2",2006
+"Duke","1","70","Southern","16 ","54","64",2006
+"G Washington","8","88","UNC Wilmington","9 ","85","64",2006
+"Syracuse","5 ","58","Texas A&M","12","66","64",2006
+"LSU","4","80","Iona","13 ","64","64",2006
+"West Virginia","6","64","S Illinois","11 ","46","64",2006
+"Iowa","3 ","63","Northwestern St","14","64","64",2006
+"Cal","7 ","52","NC State","10","58","64",2006
+"Texas","2","60","Penn","15 ","52","64",2006
+"Duke","1","74","G Washington","8 ","61","32",2006
+"Texas A&M","12 ","57","LSU","4","58","32",2006
+"West Virginia","6","67","Northwestern St","14 ","54","32",2006
+"NC State","10 ","54","Texas","2","75","32",2006
+"Duke","1 ","54","LSU","4","62","16",2006
+"West Virginia","6 ","71","Texas","2","74","16",2006
+"LSU","4","70","Texas","2 ","60","8",2006
+"Memphis","1","94","Oral Roberts","16 ","78","64",2006
+"Arkansas","8 ","55","Bucknell","9","59","64",2006
+"Pitt","5","79","Kent State","12 ","64","64",2006
+"Kansas","4 ","73","Bradley","13","77","64",2006
+"Indiana","6","87","San Diego State","11 ","83","64",2006
+"Gonzaga","3","79","Xavier","14 ","75","64",2006
+"Marquette","7 ","85","Alabama","10","90","64",2006
+"UCLA","2","78","Belmont","15 ","44","64",2006
+"Memphis","1","72","Bucknell","9 ","56","32",2006
+"Pitt","5 ","66","Bradley","13","72","32",2006
+"Indiana","6 ","80","Gonzaga","3","90","32",2006
+"Alabama","10 ","59","UCLA","2","62","32",2006
+"Memphis","1","80","Bradley","13 ","64","16",2006
+"Gonzaga","3 ","71","UCLA","2","73","16",2006
+"Memphis","1 ","45","UCLA","2","50","8",2006
+"UConn","1","72","Albany","16 ","59","64",2006
+"Kentucky","8","69","UAB","9 ","64","64",2006
+"Washington","5","75","Utah State","12 ","61","64",2006
+"Illinois","4","78","Air Force","13 ","69","64",2006
+"Michigan State","6 ","65","George Mason","11","75","64",2006
+"UNC","3","69","Murray State","14 ","65","64",2006
+"Wichita State","7","86","Seton Hall","10 ","66","64",2006
+"Tennessee","2","63","Winthrop","15 ","61","64",2006
+"UConn","1","87","Kentucky","8 ","83","32",2006
+"Washington","5","67","Illinois","4 ","64","32",2006
+"George Mason","11","65","UNC","3 ","60","32",2006
+"Wichita State","7","80","Tennessee","2 ","73","32",2006
+"UConn","1","98","Washington","5 ","92","16",2006
+"George Mason","11","63","Wichita State","7 ","55","16",2006
+"UConn","1 ","84","George Mason","11","86","8",2006
+"Villanova","1","58","Monmouth","16 ","45","64",2006
+"Arizona","8","94","Wisconsin","9 ","75","64",2006
+"Nevada","5 ","79","Montana","12","87","64",2006
+"Boston College","4","88","Pacific","13 ","76","64",2006
+"Oklahoma","6 ","74","Milwaukee","11","82","64",2006
+"Florida","3","76","South Alabama","14 ","50","64",2006
+"Georgetown","7","54","Northern Iowa","10 ","49","64",2006
+"OSU","2","70","Davidson","15 ","62","64",2006
+"Villanova","1","82","Arizona","8 ","78","32",2006
+"Montana","12 ","56","Boston College","4","69","32",2006
+"Milwaukee","11 ","60","Florida","3","82","32",2006
+"Georgetown","7","70","OSU","2 ","52","32",2006
+"Villanova","1","60","Boston College","4 ","59","16",2006
+"Florida","3","57","Georgetown","7 ","53","16",2006
+"Villanova","1 ","62","Florida","3","75","8",2006
+"Florida","1","76","UCLA","2 ","66","4",2007
+"Georgetown","2 ","60","OSU","1","67","4",2007
+"Florida","1","84","OSU","1 ","75","2",2007
+"Florida","1","112","Jackson State","16 ","69","64",2007
+"Arizona","8 ","63","Purdue","9","72","64",2007
+"Butler","5","57","Old Dominion","12 ","46","64",2007
+"Maryland","4","82","Davidson","13 ","70","64",2007
+"Notre Dame","6 ","64","Winthrop","11","74","64",2007
+"Oregon","3","58","Miami (OH)","14 ","56","64",2007
+"UNLV","7","67","Georgia Tech","10 ","63","64",2007
+"Wisconsin","2","76","Texas A&M-CC","15 ","63","64",2007
+"Florida","1","74","Purdue","9 ","67","32",2007
+"Butler","5","62","Maryland","4 ","59","32",2007
+"Winthrop","11 ","61","Oregon","3","75","32",2007
+"UNLV","7","74","Wisconsin","2 ","68","32",2007
+"Florida","1","65","Butler","5 ","57","16",2007
+"Oregon","3","76","UNLV","7 ","72","16",2007
+"Florida","1","85","Oregon","3 ","77","8",2007
+"Kansas","1","107","Niagara","16 ","67","64",2007
+"Kentucky","8","67","Villanova","9 ","58","64",2007
+"Virginia Tech","5","54","Illinois","12 ","52","64",2007
+"S Illinois","4","61","Holy Cross","13 ","51","64",2007
+"Duke","6 ","77","VCU","11","79","64",2007
+"Pitt","3","79","Wright State","14 ","58","64",2007
+"Indiana","7","70","Gonzaga","10 ","57","64",2007
+"UCLA","2","70","Weber State","15 ","42","64",2007
+"Kansas","1","88","Kentucky","8 ","76","32",2007
+"Virginia Tech","5 ","48","S Illinois","4","63","32",2007
+"VCU","11 ","79","Pitt","3","84","32",2007
+"Indiana","7 ","49","UCLA","2","54","32",2007
+"Kansas","1","61","S Illinois","4 ","58","16",2007
+"Pitt","3 ","55","UCLA","2","64","16",2007
+"Kansas","1 ","55","UCLA","2","68","8",2007
+"UNC","1","86","E Kentucky","16 ","65","64",2007
+"Marquette","8 ","49","Michigan State","9","61","64",2007
+"USC","5","77","Arkansas","12 ","60","64",2007
+"Texas","4","79","New Mexico St","13 ","67","64",2007
+"Vanderbilt","6","77","G Washington","11 ","44","64",2007
+"Washington St","3","70","Oral Roberts","14 ","54","64",2007
+"Boston College","7","84","Texas Tech","10 ","75","64",2007
+"Georgetown","2","80","Belmont","15 ","55","64",2007
+"UNC","1","81","Michigan State","9 ","67","32",2007
+"USC","5","87","Texas","4 ","68","32",2007
+"Vanderbilt","6","78","Washington St","3 ","74","32",2007
+"Boston College","7 ","55","Georgetown","2","62","32",2007
+"UNC","1","74","USC","5 ","64","16",2007
+"Vanderbilt","6 ","65","Georgetown","2","66","16",2007
+"UNC","1 ","84","Georgetown","2","96","8",2007
+"OSU","1","78","Cent Conn St","16 ","57","64",2007
+"BYU","8 ","77","Xavier","9","79","64",2007
+"Tennessee","5","121","Long Beach St","12 ","86","64",2007
+"UVA","4","84","Albany","13 ","57","64",2007
+"Louisville","6","78","Stanford","11 ","58","64",2007
+"Texas A&M","3","68","Penn","14 ","52","64",2007
+"Nevada","7","77","Creighton","10 ","71","64",2007
+"Memphis","2","73","North Texas","15 ","58","64",2007
+"OSU","1","78","Xavier","9 ","71","32",2007
+"Tennessee","5","77","UVA","4 ","74","32",2007
+"Louisville","6 ","69","Texas A&M","3","72","32",2007
+"Nevada","7 ","62","Memphis","2","78","32",2007
+"OSU","1","85","Tennessee","5 ","84","16",2007
+"Texas A&M","3 ","64","Memphis","2","65","16",2007
+"OSU","1","92","Memphis","2 ","76","8",2007
+"UNC","1 ","66","Kansas","1","84","4",2008
+"Memphis","1","78","UCLA","1 ","63","4",2008
+"Memphis","1 ","68","Kansas","1","75","2",2008
+"UNC","1","113","Mt St Mary's","16 ","74","64",2008
+"Indiana","8 ","72","Arkansas","9","86","64",2008
+"Notre Dame","5","68","George Mason","12 ","50","64",2008
+"Washington St","4","71","Winthrop","13 ","40","64",2008
+"Oklahoma","6","72","Saint Joe's","11 ","64","64",2008
+"Louisville","3","79","Boise State","14 ","61","64",2008
+"Butler","7","81","South Alabama","10 ","61","64",2008
+"Tennessee","2","72","American U","15 ","57","64",2008
+"UNC","1","108","Arkansas","9 ","77","32",2008
+"Notre Dame","5 ","41","Washington St","4","61","32",2008
+"Oklahoma","6 ","48","Louisville","3","78","32",2008
+"Butler","7 ","71","Tennessee","2","76","32",2008
+"UNC","1","68","Washington St","4 ","47","16",2008
+"Louisville","3","79","Tennessee","2 ","60","16",2008
+"UNC","1","83","Louisville","3 ","73","8",2008
+"Kansas","1","85","Portland State","16 ","61","64",2008
+"UNLV","8","71","Kent State","9 ","58","64",2008
+"Clemson","5 ","69","Villanova","12","75","64",2008
+"Vanderbilt","4 ","62","Siena","13","83","64",2008
+"USC","6 ","67","Kansas State","11","80","64",2008
+"Wisconsin","3","71","CSU Fullerton","14 ","56","64",2008
+"Gonzaga","7 ","76","Davidson","10","82","64",2008
+"Georgetown","2","66","UMBC","15 ","47","64",2008
+"Kansas","1","75","UNLV","8 ","56","32",2008
+"Villanova","12","84","Siena","13 ","72","32",2008
+"Kansas State","11 ","55","Wisconsin","3","72","32",2008
+"Davidson","10","74","Georgetown","2 ","70","32",2008
+"Kansas","1","72","Villanova","12 ","57","16",2008
+"Wisconsin","3 ","56","Davidson","10","73","16",2008
+"Kansas","1","59","Davidson","10 ","57","8",2008
+"Memphis","1","87","UT Arlington","16 ","63","64",2008
+"Miss St","8","76","Oregon","9 ","69","64",2008
+"Michigan State","5","72","Temple","12 ","61","64",2008
+"Pitt","4","82","Oral Roberts","13 ","63","64",2008
+"Marquette","6","74","Kentucky","11 ","66","64",2008
+"Stanford","3","77","Cornell","14 ","53","64",2008
+"Miami","7","78","Saint Mary's","10 ","64","64",2008
+"Texas","2","74","Austin Peay","15 ","54","64",2008
+"Memphis","1","77","Miss St","8 ","74","32",2008
+"Michigan State","5","65","Pitt","4 ","54","32",2008
+"Marquette","6 ","81","Stanford","3","82","32",2008
+"Miami","7 ","72","Texas","2","75","32",2008
+"Memphis","1","92","Michigan State","5 ","74","16",2008
+"Stanford","3 ","62","Texas","2","82","16",2008
+"Memphis","1","85","Texas","2 ","67","8",2008
+"UCLA","1","70","Miss Valley St","16 ","29","64",2008
+"BYU","8 ","62","Texas A&M","9","67","64",2008
+"Drake","5 ","99","W Kentucky","12","101","64",2008
+"UConn","4 ","69","San Diego","13","70","64",2008
+"Purdue","6","90","Baylor","11 ","79","64",2008
+"Xavier","3","73","Georgia","14 ","61","64",2008
+"West Virginia","7","75","Arizona","10 ","65","64",2008
+"Duke","2","71","Belmont","15 ","70","64",2008
+"UCLA","1","51","Texas A&M","9 ","49","32",2008
+"W Kentucky","12","72","San Diego","13 ","63","32",2008
+"Purdue","6 ","78","Xavier","3","85","32",2008
+"West Virginia","7","73","Duke","2 ","67","32",2008
+"UCLA","1","88","W Kentucky","12 ","78","16",2008
+"Xavier","3","79","West Virginia","7 ","75","16",2008
+"UCLA","1","76","Xavier","3 ","57","8",2008
+"Michigan State","2","82","UConn","1 ","73","4",2009
+"Villanova","3 ","69","UNC","1","83","4",2009
+"Michigan State","2 ","72","UNC","1","89","2",2009
+"Louisville","1","74","Morehead State","16 ","54","64",2009
+"OSU","8 ","72","Siena","9","74","64",2009
+"Utah","5 ","71","Arizona","12","84","64",2009
+"Wake Forest","4 ","69","Cleveland State","13","84","64",2009
+"West Virginia","6 ","60","Dayton","11","68","64",2009
+"Kansas","3","84","North Dakota St","14 ","74","64",2009
+"Boston College","7 ","55","USC","10","72","64",2009
+"Michigan State","2","77","Robert Morris","15 ","62","64",2009
+"Louisville","1","79","Siena","9 ","72","32",2009
+"Arizona","12","71","Cleveland State","13 ","57","32",2009
+"Dayton","11 ","43","Kansas","3","60","32",2009
+"USC","10 ","69","Michigan State","2","74","32",2009
+"Louisville","1","103","Arizona","12 ","64","16",2009
+"Kansas","3 ","62","Michigan State","2","67","16",2009
+"Louisville","1 ","52","Michigan State","2","64","8",2009
+"UConn","1","103","Chattanooga","16 ","47","64",2009
+"BYU","8 ","66","Texas A&M","9","79","64",2009
+"Purdue","5","61","Northern Iowa","12 ","56","64",2009
+"Washington","4","71","Miss St","13 ","58","64",2009
+"Marquette","6","58","Utah State","11 ","57","64",2009
+"Missouri","3","78","Cornell","14 ","59","64",2009
+"Cal","7 ","71","Maryland","10","84","64",2009
+"Memphis","2","81","CSU Northridge","15 ","70","64",2009
+"UConn","1","92","Texas A&M","9 ","66","32",2009
+"Purdue","5","76","Washington","4 ","74","32",2009
+"Marquette","6 ","79","Missouri","3","83","32",2009
+"Maryland","10 ","70","Memphis","2","89","32",2009
+"UConn","1","72","Purdue","5 ","60","16",2009
+"Missouri","3","102","Memphis","2 ","91","16",2009
+"UConn","1","82","Missouri","3 ","75","8",2009
+"Pitt","1","72","ETSU","16 ","62","64",2009
+"Oklahoma State","8","77","Tennessee","9 ","75","64",2009
+"Florida State","5 ","59","Wisconsin","12","61","64",2009
+"Xavier","4","77","Portland State","13 ","59","64",2009
+"UCLA","6","65","VCU","11 ","64","64",2009
+"Villanova","3","80","American U","14 ","67","64",2009
+"Texas","7","76","Minnesota","10 ","62","64",2009
+"Duke","2","86","Binghamton","15 ","62","64",2009
+"Pitt","1","84","Oklahoma State","8 ","76","32",2009
+"Wisconsin","12 ","49","Xavier","4","60","32",2009
+"UCLA","6 ","69","Villanova","3","89","32",2009
+"Texas","7 ","69","Duke","2","74","32",2009
+"Pitt","1","60","Xavier","4 ","55","16",2009
+"Villanova","3","77","Duke","2 ","54","16",2009
+"Pitt","1 ","76","Villanova","3","78","8",2009
+"UNC","1","101","Radford","16 ","58","64",2009
+"LSU","8","75","Butler","9 ","71","64",2009
+"Illinois","5 ","72","W Kentucky","12","76","64",2009
+"Gonzaga","4","77","Akron","13 ","64","64",2009
+"Arizona State","6","66","Temple","11 ","57","64",2009
+"Syracuse","3","59","SF Austin","14 ","44","64",2009
+"Clemson","7 ","59","Michigan","10","62","64",2009
+"Oklahoma","2","82","Morgan State","15 ","54","64",2009
+"UNC","1","84","LSU","8 ","70","32",2009
+"W Kentucky","12 ","81","Gonzaga","4","83","32",2009
+"Arizona State","6 ","67","Syracuse","3","78","32",2009
+"Michigan","10 ","63","Oklahoma","2","73","32",2009
+"UNC","1","98","Gonzaga","4 ","77","16",2009
+"Syracuse","3 ","71","Oklahoma","2","84","16",2009
+"UNC","1","72","Oklahoma","2 ","60","8",2009
+"Michigan State","5 ","50","Butler","5","52","4",2010
+"West Virginia","2 ","57","Duke","1","78","4",2010
+"Butler","5 ","59","Duke","1","61","2",2010
+"Kansas","1","90","Lehigh","16 ","74","64",2010
+"UNLV","8 ","66","Northern Iowa","9","69","64",2010
+"Michigan State","5","70","New Mexico St","12 ","67","64",2010
+"Maryland","4","89","Houston","13 ","77","64",2010
+"Tennessee","6","62","San Diego State","11 ","59","64",2010
+"Georgetown","3 ","83","Ohio","14","97","64",2010
+"Oklahoma State","7 ","59","Georgia Tech","10","64","64",2010
+"OSU","2","68","UCSB","15 ","51","64",2010
+"Kansas","1 ","67","Northern Iowa","9","69","32",2010
+"Michigan State","5","85","Maryland","4 ","83","32",2010
+"Tennessee","6","83","Ohio","14 ","68","32",2010
+"Georgia Tech","10 ","66","OSU","2","75","32",2010
+"Northern Iowa","9 ","52","Michigan State","5","59","16",2010
+"Tennessee","6","76","OSU","2 ","73","16",2010
+"Michigan State","5","70","Tennessee","6 ","69","8",2010
+"Syracuse","1","79","Vermont","16 ","56","64",2010
+"Gonzaga","8","67","Florida State","9 ","60","64",2010
+"Butler","5","77","UTEP","12 ","59","64",2010
+"Vanderbilt","4 ","65","Murray State","13","66","64",2010
+"Xavier","6","65","Minnesota","11 ","54","64",2010
+"Pitt","3","89","Oakland","14 ","66","64",2010
+"BYU","7","99","Florida","10 ","92","64",2010
+"Kansas State","2","82","North Texas","15 ","62","64",2010
+"Syracuse","1","87","Gonzaga","8 ","65","32",2010
+"Butler","5","54","Murray State","13 ","52","32",2010
+"Xavier","6","71","Pitt","3 ","68","32",2010
+"BYU","7 ","72","Kansas State","2","84","32",2010
+"Syracuse","1 ","59","Butler","5","63","16",2010
+"Xavier","6 ","96","Kansas State","2","101","16",2010
+"Butler","5","63","Kansas State","2 ","56","8",2010
+"Kentucky","1","100","ETSU","16 ","71","64",2010
+"Texas","8 ","80","Wake Forest","9","81","64",2010
+"Temple","5 ","65","Cornell","12","78","64",2010
+"Wisconsin","4","53","Wofford","13 ","49","64",2010
+"Marquette","6 ","78","Washington","11","80","64",2010
+"New Mexico","3","62","Montana","14 ","57","64",2010
+"Clemson","7 ","78","Missouri","10","86","64",2010
+"West Virginia","2","77","Morgan State","15 ","50","64",2010
+"Kentucky","1","90","Wake Forest","9 ","60","32",2010
+"Cornell","12","87","Wisconsin","4 ","69","32",2010
+"Washington","11","82","New Mexico","3 ","64","32",2010
+"Missouri","10 ","59","West Virginia","2","68","32",2010
+"Kentucky","1","62","Cornell","12 ","45","16",2010
+"Washington","11 ","56","West Virginia","2","69","16",2010
+"Kentucky","1 ","66","West Virginia","2","73","8",2010
+"Duke","1","73","AR-Pine Bluff","16 ","44","64",2010
+"Cal","8","77","Louisville","9 ","62","64",2010
+"Texas A&M","5","69","Utah State","12 ","53","64",2010
+"Purdue","4","72","Siena","13 ","64","64",2010
+"Notre Dame","6 ","50","Old Dominion","11","51","64",2010
+"Baylor","3","68","Sam Houston","14 ","59","64",2010
+"Richmond","7 ","71","Saint Mary's","10","80","64",2010
+"Villanova","2","73","Robert Morris","15 ","70","64",2010
+"Duke","1","68","Cal","8 ","53","32",2010
+"Texas A&M","5 ","61","Purdue","4","63","32",2010
+"Old Dominion","11 ","68","Baylor","3","76","32",2010
+"Saint Mary's","10","75","Villanova","2 ","68","32",2010
+"Duke","1","70","Purdue","4 ","57","16",2010
+"Baylor","3","72","Saint Mary's","10 ","49","16",2010
+"Duke","1","78","Baylor","3 ","71","8",2010
+"Kentucky","4 ","55","UConn","3","56","4",2011
+"VCU","11 ","62","Butler","8","70","4",2011
+"UConn","3","53","Butler","8 ","41","2",2011
+"OSU","1","75","UTSA","16 ","46","64",2011
+"George Mason","8","61","Villanova","9 ","57","64",2011
+"West Virginia","5","84","Clemson","12 ","76","64",2011
+"Kentucky","4","59","Princeton","13 ","57","64",2011
+"Xavier","6 ","55","Marquette","11","66","64",2011
+"Syracuse","3","77","Indiana State","14 ","60","64",2011
+"Washington","7","68","Georgia","10 ","65","64",2011
+"UNC","2","102","LIU Brooklyn","15 ","87","64",2011
+"OSU","1","98","George Mason","8 ","66","32",2011
+"West Virginia","5 ","63","Kentucky","4","71","32",2011
+"Marquette","11","66","Syracuse","3 ","62","32",2011
+"Washington","7 ","83","UNC","2","86","32",2011
+"OSU","1 ","60","Kentucky","4","62","16",2011
+"Marquette","11 ","63","UNC","2","81","16",2011
+"Kentucky","4","76","UNC","2 ","69","8",2011
+"Duke","1","87","Hampton","16 ","45","64",2011
+"Michigan","8","75","Tennessee","9 ","45","64",2011
+"Arizona","5","77","Memphis","12 ","75","64",2011
+"Texas","4","85","Oakland","13 ","81","64",2011
+"Cincinnati","6","78","Missouri","11 ","63","64",2011
+"UConn","3","81","Bucknell","14 ","52","64",2011
+"Temple","7","66","Penn State","10 ","64","64",2011
+"San Diego State","2","68","N Colorado","15 ","50","64",2011
+"Duke","1","73","Michigan","8 ","71","32",2011
+"Arizona","5","70","Texas","4 ","69","32",2011
+"Cincinnati","6 ","58","UConn","3","69","32",2011
+"Temple","7 ","64","San Diego State","2","71","32",2011
+"Duke","1 ","77","Arizona","5","93","16",2011
+"UConn","3","74","San Diego State","2 ","67","16",2011
+"Arizona","5 ","63","UConn","3","65","8",2011
+"Kansas","1","72","Boston U","16 ","53","64",2011
+"UNLV","8 ","62","Illinois","9","73","64",2011
+"Vanderbilt","5 ","66","Richmond","12","69","64",2011
+"Louisville","4 ","61","Morehead State","13","62","64",2011
+"Georgetown","6 ","56","VCU","11","74","64",2011
+"Purdue","3","65","St Peter's","14 ","43","64",2011
+"Texas A&M","7 ","50","Florida State","10","57","64",2011
+"Notre Dame","2","69","Akron","15 ","56","64",2011
+"Kansas","1","73","Illinois","9 ","59","32",2011
+"Richmond","12","65","Morehead State","13 ","48","32",2011
+"VCU","11","94","Purdue","3 ","76","32",2011
+"Florida State","10","71","Notre Dame","2 ","57","32",2011
+"Kansas","1","77","Richmond","12 ","57","16",2011
+"VCU","11","72","Florida State","10 ","71","16",2011
+"Kansas","1 ","61","VCU","11","71","8",2011
+"Pitt","1","74","UNC Asheville","16 ","51","64",2011
+"Butler","8","60","Old Dominion","9 ","58","64",2011
+"Kansas State","5","73","Utah State","12 ","68","64",2011
+"Wisconsin","4","72","Belmont","13 ","58","64",2011
+"St John's","6 ","71","Gonzaga","11","86","64",2011
+"BYU","3","74","Wofford","14 ","66","64",2011
+"UCLA","7","78","Michigan State","10 ","76","64",2011
+"Florida","2","79","UCSB","15 ","51","64",2011
+"Pitt","1 ","70","Butler","8","71","32",2011
+"Kansas State","5 ","65","Wisconsin","4","70","32",2011
+"Gonzaga","11 ","67","BYU","3","89","32",2011
+"UCLA","7 ","65","Florida","2","73","32",2011
+"Butler","8","61","Wisconsin","4 ","54","16",2011
+"BYU","3 ","74","Florida","2","83","16",2011
+"Butler","8","74","Florida","2 ","71","8",2011
+"Kentucky","1","69","Louisville","4 ","61","4",2012
+"OSU","2 ","62","Kansas","2","64","4",2012
+"Kentucky","1","67","Kansas","2 ","59","2",2012
+"Kentucky","1","81","W Kentucky","16 ","66","64",2012
+"Iowa State","8","77","UConn","9 ","64","64",2012
+"Wichita State","5 ","59","VCU","12","62","64",2012
+"Indiana","4","79","New Mexico St","13 ","66","64",2012
+"UNLV","6 ","64","Colorado","11","68","64",2012
+"Baylor","3","68","South Dakota St","14 ","60","64",2012
+"Notre Dame","7 ","63","Xavier","10","67","64",2012
+"Duke","2 ","70","Lehigh","15","75","64",2012
+"Kentucky","1","87","Iowa State","8 ","71","32",2012
+"VCU","12 ","61","Indiana","4","63","32",2012
+"Colorado","11 ","63","Baylor","3","80","32",2012
+"Xavier","10","70","Lehigh","15 ","58","32",2012
+"Kentucky","1","102","Indiana","4 ","90","16",2012
+"Baylor","3","75","Xavier","10 ","70","16",2012
+"Kentucky","1","82","Baylor","3 ","70","8",2012
+"Michigan State","1","89","LIU Brooklyn","16 ","67","64",2012
+"Memphis","8 ","54","Saint Louis","9","61","64",2012
+"New Mexico","5","75","Long Beach St","12 ","68","64",2012
+"Louisville","4","69","Davidson","13 ","62","64",2012
+"Murray State","6","58","Colorado State","11 ","41","64",2012
+"Marquette","3","88","BYU","14 ","68","64",2012
+"Florida","7","71","UVA","10 ","45","64",2012
+"Missouri","2 ","84","Norfolk State","15","86","64",2012
+"Michigan State","1","65","Saint Louis","9 ","61","32",2012
+"New Mexico","5 ","56","Louisville","4","59","32",2012
+"Murray State","6 ","53","Marquette","3","62","32",2012
+"Florida","7","84","Norfolk State","15 ","50","32",2012
+"Michigan State","1 ","44","Louisville","4","57","16",2012
+"Marquette","3 ","58","Florida","7","68","16",2012
+"Louisville","4","72","Florida","7 ","68","8",2012
+"Syracuse","1","72","UNC Asheville","16 ","65","64",2012
+"Kansas State","8","70","Southern Miss","9 ","64","64",2012
+"Vanderbilt","5","79","Harvard","12 ","70","64",2012
+"Wisconsin","4","73","Montana","13 ","49","64",2012
+"Cincinnati","6","65","Texas","11 ","59","64",2012
+"Florida State","3","66","St Bonaventure","14 ","63","64",2012
+"Gonzaga","7","77","West Virginia","10 ","54","64",2012
+"OSU","2","78","Loyola (MD)","15 ","59","64",2012
+"Syracuse","1","75","Kansas State","8 ","59","32",2012
+"Vanderbilt","5 ","57","Wisconsin","4","60","32",2012
+"Cincinnati","6","62","Florida State","3 ","56","32",2012
+"Gonzaga","7 ","66","OSU","2","73","32",2012
+"Syracuse","1","64","Wisconsin","4 ","63","16",2012
+"Cincinnati","6 ","66","OSU","2","81","16",2012
+"Syracuse","1 ","70","OSU","2","77","8",2012
+"UNC","1","77","Vermont","16 ","58","64",2012
+"Creighton","8","58","Alabama","9 ","57","64",2012
+"Temple","5 ","44","USF","12","58","64",2012
+"Michigan","4 ","60","Ohio","13","65","64",2012
+"San Diego State","6 ","65","NC State","11","79","64",2012
+"Georgetown","3","74","Belmont","14 ","59","64",2012
+"Saint Mary's","7 ","69","Purdue","10","72","64",2012
+"Kansas","2","65","Detroit Mercy","15 ","50","64",2012
+"UNC","1","87","Creighton","8 ","73","32",2012
+"USF","12 ","56","Ohio","13","62","32",2012
+"NC State","11","66","Georgetown","3 ","63","32",2012
+"Purdue","10 ","60","Kansas","2","63","32",2012
+"UNC","1","73","Ohio","13 ","65","16",2012
+"NC State","11 ","57","Kansas","2","60","16",2012
+"UNC","1 ","67","Kansas","2","80","8",2012
+"Louisville","1","72","Wichita State","9 ","68","4",2013
+"Michigan","4","61","Syracuse","4 ","56","4",2013
+"Louisville","1","82","Michigan","4 ","76","2",2013
+"Louisville","1","79","NC A&T","16 ","48","64",2013
+"Colorado State","8","84","Missouri","9 ","72","64",2013
+"Oklahoma State","5 ","55","Oregon","12","68","64",2013
+"Saint Louis","4","64","New Mexico St","13 ","44","64",2013
+"Memphis","6","54","Saint Mary's","11 ","52","64",2013
+"Michigan State","3","65","Valparaiso","14 ","54","64",2013
+"Creighton","7","67","Cincinnati","10 ","63","64",2013
+"Duke","2","73","Albany","15 ","61","64",2013
+"Louisville","1","82","Colorado State","8 ","56","32",2013
+"Oregon","12","74","Saint Louis","4 ","57","32",2013
+"Memphis","6 ","48","Michigan State","3","70","32",2013
+"Creighton","7 ","50","Duke","2","66","32",2013
+"Louisville","1","77","Oregon","12 ","69","16",2013
+"Michigan State","3 ","61","Duke","2","71","16",2013
+"Louisville","1","85","Duke","2 ","63","8",2013
+"Gonzaga","1","64","Southern","16 ","58","64",2013
+"Pitt","8 ","55","Wichita State","9","73","64",2013
+"Wisconsin","5 ","46","Ole Miss","12","57","64",2013
+"Kansas State","4 ","61","La Salle","13","63","64",2013
+"Arizona","6","81","Belmont","11 ","64","64",2013
+"New Mexico","3 ","62","Harvard","14","68","64",2013
+"Notre Dame","7 ","58","Iowa State","10","76","64",2013
+"OSU","2","95","Iona","15 ","70","64",2013
+"Gonzaga","1 ","70","Wichita State","9","76","32",2013
+"Ole Miss","12 ","74","La Salle","13","76","32",2013
+"Arizona","6","74","Harvard","14 ","51","32",2013
+"Iowa State","10 ","75","OSU","2","78","32",2013
+"Wichita State","9","72","La Salle","13 ","58","16",2013
+"Arizona","6 ","70","OSU","2","73","16",2013
+"Wichita State","9","70","OSU","2 ","66","8",2013
+"Kansas","1","64","W Kentucky","16 ","57","64",2013
+"UNC","8","78","Villanova","9 ","71","64",2013
+"VCU","5","88","Akron","12 ","42","64",2013
+"Michigan","4","71","South Dakota St","13 ","56","64",2013
+"UCLA","6 ","63","Minnesota","11","83","64",2013
+"Florida","3","79","Northwestern St","14 ","47","64",2013
+"San Diego State","7","70","Oklahoma","10 ","55","64",2013
+"Georgetown","2 ","68","FGCU","15","78","64",2013
+"Kansas","1","70","UNC","8 ","58","32",2013
+"VCU","5 ","53","Michigan","4","78","32",2013
+"Minnesota","11 ","64","Florida","3","78","32",2013
+"San Diego State","7 ","71","FGCU","15","81","32",2013
+"Kansas","1 ","85","Michigan","4","87","16",2013
+"Florida","3","62","FGCU","15 ","50","16",2013
+"Michigan","4","79","Florida","3 ","59","8",2013
+"Indiana","1","83","JMU","16 ","62","64",2013
+"NC State","8 ","72","Temple","9","76","64",2013
+"UNLV","5 ","61","Cal","12","64","64",2013
+"Syracuse","4","81","Montana","13 ","34","64",2013
+"Butler","6","68","Bucknell","11 ","56","64",2013
+"Marquette","3","59","Davidson","14 ","58","64",2013
+"Illinois","7","57","Colorado","10 ","49","64",2013
+"Miami","2","78","Pacific","15 ","49","64",2013
+"Indiana","1","58","Temple","9 ","52","32",2013
+"Cal","12 ","60","Syracuse","4","66","32",2013
+"Butler","6 ","72","Marquette","3","74","32",2013
+"Illinois","7 ","59","Miami","2","63","32",2013
+"Indiana","1 ","50","Syracuse","4","61","16",2013
+"Marquette","3","71","Miami","2 ","61","16",2013
+"Syracuse","4","55","Marquette","3 ","39","8",2013
+"Florida","1 ","53","UConn","7","63","4",2014
+"Wisconsin","2 ","73","Kentucky","8","74","4",2014
+"UConn","7","60","Kentucky","8 ","54","2",2014
+"Florida","1","67","Albany","16 ","55","64",2014
+"Colorado","8 ","48","Pitt","9","77","64",2014
+"VCU","5 ","75","SF Austin","12","77","64",2014
+"UCLA","4","76","Tulsa","13 ","59","64",2014
+"OSU","6 ","59","Dayton","11","60","64",2014
+"Syracuse","3","77","W Michigan","14 ","53","64",2014
+"New Mexico","7 ","53","Stanford","10","58","64",2014
+"Kansas","2","80","E Kentucky","15 ","69","64",2014
+"Florida","1","61","Pitt","9 ","45","32",2014
+"SF Austin","12 ","60","UCLA","4","77","32",2014
+"Dayton","11","55","Syracuse","3 ","53","32",2014
+"Stanford","10","60","Kansas","2 ","57","32",2014
+"Florida","1","79","UCLA","4 ","68","16",2014
+"Dayton","11","82","Stanford","10 ","72","16",2014
+"Florida","1","62","Dayton","11 ","52","8",2014
+"UVA","1","70","C. Carolina","16 ","59","64",2014
+"Memphis","8","71","G Washington","9 ","66","64",2014
+"Cincinnati","5 ","57","Harvard","12","61","64",2014
+"Michigan State","4","93","Delaware","13 ","78","64",2014
+"UNC","6","79","Providence","11 ","77","64",2014
+"Iowa State","3","93","NC Central","14 ","75","64",2014
+"UConn","7","89","Saint Joe's","10 ","81","64",2014
+"Villanova","2","73","Milwaukee","15 ","53","64",2014
+"UVA","1","78","Memphis","8 ","60","32",2014
+"Harvard","12 ","73","Michigan State","4","80","32",2014
+"UNC","6 ","83","Iowa State","3","85","32",2014
+"UConn","7","77","Villanova","2 ","65","32",2014
+"UVA","1 ","59","Michigan State","4","61","16",2014
+"Iowa State","3 ","76","UConn","7","81","16",2014
+"Michigan State","4 ","54","UConn","7","60","8",2014
+"Arizona","1","68","Weber State","16 ","59","64",2014
+"Gonzaga","8","85","Oklahoma State","9 ","77","64",2014
+"Oklahoma","5 ","75","North Dakota St","12","80","64",2014
+"San Diego State","4","73","New Mexico St","13 ","69","64",2014
+"Baylor","6","74","Nebraska","11 ","60","64",2014
+"Creighton","3","76","UL Lafayette","14 ","66","64",2014
+"Oregon","7","87","BYU","10 ","68","64",2014
+"Wisconsin","2","75","American U","15 ","35","64",2014
+"Arizona","1","84","Gonzaga","8 ","61","32",2014
+"North Dakota St","12 ","44","San Diego State","4","63","32",2014
+"Baylor","6","85","Creighton","3 ","55","32",2014
+"Oregon","7 ","77","Wisconsin","2","85","32",2014
+"Arizona","1","70","San Diego State","4 ","64","16",2014
+"Baylor","6 ","52","Wisconsin","2","69","16",2014
+"Arizona","1 ","63","Wisconsin","2","64","8",2014
+"Wichita State","1","64","Cal Poly","16 ","37","64",2014
+"Kentucky","8","56","Kansas State","9 ","49","64",2014
+"Saint Louis","5","83","NC State","12 ","80","64",2014
+"Louisville","4","71","Manhattan","13 ","64","64",2014
+"UMass","6 ","67","Tennessee","11","86","64",2014
+"Duke","3 ","71","Mercer","14","78","64",2014
+"Texas","7","87","Arizona State","10 ","85","64",2014
+"Michigan","2","57","Wofford","15 ","40","64",2014
+"Wichita State","1 ","76","Kentucky","8","78","32",2014
+"Saint Louis","5 ","51","Louisville","4","66","32",2014
+"Tennessee","11","83","Mercer","14 ","63","32",2014
+"Texas","7 ","65","Michigan","2","79","32",2014
+"Kentucky","8","74","Louisville","4 ","69","16",2014
+"Tennessee","11 ","71","Michigan","2","73","16",2014
+"Kentucky","8","75","Michigan","2 ","72","8",2014
+"Kentucky","1 ","64","Wisconsin","1","71","4",2015
+"Michigan State","7 ","61","Duke","1","81","4",2015
+"Wisconsin","1 ","63","Duke","1","68","2",2015
+"Kentucky","1","79","Hampton","16 ","56","64",2015
+"Cincinnati","8","66","Purdue","9 ","65","64",2015
+"West Virginia","5","68","Buffalo","12 ","62","64",2015
+"Maryland","4","65","Valparaiso","13 ","62","64",2015
+"Butler","6","56","Texas","11 ","48","64",2015
+"Notre Dame","3","69","Northeastern","14 ","65","64",2015
+"Wichita State","7","81","Indiana","10 ","76","64",2015
+"Kansas","2","75","New Mexico St","15 ","56","64",2015
+"Kentucky","1","64","Cincinnati","8 ","51","32",2015
+"West Virginia","5","69","Maryland","4 ","59","32",2015
+"Butler","6 ","64","Notre Dame","3","67","32",2015
+"Wichita State","7","78","Kansas","2 ","65","32",2015
+"Kentucky","1","78","West Virginia","5 ","39","16",2015
+"Notre Dame","3","81","Wichita State","7 ","70","16",2015
+"Kentucky","1","68","Notre Dame","3 ","66","8",2015
+"Wisconsin","1","86","C. Carolina","16 ","72","64",2015
+"Oregon","8","79","Oklahoma State","9 ","73","64",2015
+"Arkansas","5","56","Wofford","12 ","53","64",2015
+"UNC","4","67","Harvard","13 ","65","64",2015
+"Xavier","6","76","Ole Miss","11 ","57","64",2015
+"Baylor","3 ","56","Georgia State","14","57","64",2015
+"VCU","7 ","72","OSU","10","75","64",2015
+"Arizona","2","93","Texas Southern","15 ","72","64",2015
+"Wisconsin","1","72","Oregon","8 ","65","32",2015
+"Arkansas","5 ","78","UNC","4","87","32",2015
+"Xavier","6","75","Georgia State","14 ","67","32",2015
+"OSU","10 ","58","Arizona","2","73","32",2015
+"Wisconsin","1","79","UNC","4 ","72","16",2015
+"Xavier","6 ","60","Arizona","2","68","16",2015
+"Wisconsin","1","85","Arizona","2 ","78","8",2015
+"Villanova","1","93","Lafayette","16 ","52","64",2015
+"NC State","8","66","LSU","9 ","65","64",2015
+"Northern Iowa","5","71","Wyoming","12 ","54","64",2015
+"Louisville","4","57","UC Irvine","13 ","55","64",2015
+"Providence","6 ","53","Dayton","11","66","64",2015
+"Oklahoma","3","69","Albany","14 ","60","64",2015
+"Michigan State","7","70","Georgia","10 ","63","64",2015
+"UVA","2","79","Belmont","15 ","67","64",2015
+"Villanova","1 ","68","NC State","8","71","32",2015
+"Northern Iowa","5 ","53","Louisville","4","66","32",2015
+"Dayton","11 ","66","Oklahoma","3","72","32",2015
+"Michigan State","7","60","UVA","2 ","54","32",2015
+"NC State","8 ","65","Louisville","4","75","16",2015
+"Oklahoma","3 ","58","Michigan State","7","62","16",2015
+"Louisville","4 ","70","Michigan State","7","76","8",2015
+"Duke","1","85","Robert Morris","16 ","56","64",2015
+"San Diego State","8","76","St John's","9 ","64","64",2015
+"Utah","5","57","SF Austin","12 ","50","64",2015
+"Georgetown","4","84","E Washington","13 ","74","64",2015
+"SMU","6 ","59","UCLA","11","60","64",2015
+"Iowa State","3 ","59","UAB","14","60","64",2015
+"Iowa","7","83","Davidson","10 ","52","64",2015
+"Gonzaga","2","86","North Dakota St","15 ","76","64",2015
+"Duke","1","68","San Diego State","8 ","49","32",2015
+"Utah","5","75","Georgetown","4 ","64","32",2015
+"UCLA","11","92","UAB","14 ","75","32",2015
+"Iowa","7 ","68","Gonzaga","2","87","32",2015
+"Duke","1","63","Utah","5 ","57","16",2015
+"UCLA","11 ","62","Gonzaga","2","74","16",2015
+"Duke","1","66","Gonzaga","2 ","52","8",2015
+"Villanova","2","95","Oklahoma","2 ","51","4",2016
+"UNC","1","83","Syracuse","10 ","66","4",2016
+"Villanova","2","77","UNC","1 ","74","2",2016
+"Kansas","1","105","Austin Peay","16 ","79","64",2016
+"Colorado","8 ","67","UConn","9","74","64",2016
+"Maryland","5","79","South Dakota St","12 ","74","64",2016
+"Cal","4 ","66","Hawai'i","13","77","64",2016
+"Arizona","6 ","55","Wichita State","11","65","64",2016
+"Miami","3","79","Buffalo","14 ","72","64",2016
+"Iowa","7","72","Temple","10 ","70","64",2016
+"Villanova","2","86","UNC Asheville","15 ","56","64",2016
+"Kansas","1","73","UConn","9 ","61","32",2016
+"Maryland","5","73","Hawai'i","13 ","60","32",2016
+"Wichita State","11 ","57","Miami","3","65","32",2016
+"Iowa","7 ","68","Villanova","2","87","32",2016
+"Kansas","1","79","Maryland","5 ","63","16",2016
+"Miami","3 ","69","Villanova","2","92","16",2016
+"Kansas","1 ","59","Villanova","2","64","8",2016
+"Oregon","1","91","Holy Cross","16 ","52","64",2016
+"Saint Joe's","8","78","Cincinnati","9 ","76","64",2016
+"Baylor","5 ","75","Yale","12","79","64",2016
+"Duke","4","93","UNC Wilmington","13 ","85","64",2016
+"Texas","6 ","72","Northern Iowa","11","75","64",2016
+"Texas A&M","3","92","Green Bay","14 ","65","64",2016
+"Oregon State","7 ","67","VCU","10","75","64",2016
+"Oklahoma","2","82","CSU Bakersfield","15 ","68","64",2016
+"Oregon","1","69","Saint Joe's","8 ","64","32",2016
+"Yale","12 ","64","Duke","4","71","32",2016
+"Northern Iowa","11 ","88","Texas A&M","3","92","32",2016
+"VCU","10 ","81","Oklahoma","2","85","32",2016
+"Oregon","1","82","Duke","4 ","68","16",2016
+"Texas A&M","3 ","63","Oklahoma","2","77","16",2016
+"Oregon","1 ","68","Oklahoma","2","80","8",2016
+"UNC","1","83","FGCU","16 ","67","64",2016
+"USC","8 ","69","Providence","9","70","64",2016
+"Indiana","5","99","Chattanooga","12 ","74","64",2016
+"Kentucky","4","85","Stony Brook","13 ","57","64",2016
+"Notre Dame","6","70","Michigan","11 ","63","64",2016
+"West Virginia","3 ","56","SF Austin","14","70","64",2016
+"Wisconsin","7","47","Pitt","10 ","43","64",2016
+"Xavier","2","71","Weber State","15 ","53","64",2016
+"UNC","1","85","Providence","9 ","66","32",2016
+"Indiana","5","73","Kentucky","4 ","67","32",2016
+"Notre Dame","6","76","SF Austin","14 ","75","32",2016
+"Wisconsin","7","66","Xavier","2 ","63","32",2016
+"UNC","1","101","Indiana","5 ","86","16",2016
+"Notre Dame","6","61","Wisconsin","7 ","56","16",2016
+"UNC","1","88","Notre Dame","6 ","74","8",2016
+"UVA","1","81","Hampton","16 ","45","64",2016
+"Texas Tech","8 ","61","Butler","9","71","64",2016
+"Purdue","5 ","83","Little Rock","12","85","64",2016
+"Iowa State","4","94","Iona","13 ","81","64",2016
+"Seton Hall","6 ","52","Gonzaga","11","68","64",2016
+"Utah","3","80","Fresno State","14 ","69","64",2016
+"Dayton","7 ","51","Syracuse","10","70","64",2016
+"Michigan State","2 ","81","Mid Tennessee","15","90","64",2016
+"UVA","1","77","Butler","9 ","69","32",2016
+"Little Rock","12 ","61","Iowa State","4","78","32",2016
+"Gonzaga","11","82","Utah","3 ","59","32",2016
+"Syracuse","10","75","Mid Tennessee","15 ","50","32",2016
+"UVA","1","84","Iowa State","4 ","71","16",2016
+"Gonzaga","11 ","60","Syracuse","10","63","16",2016
+"UVA","1 ","62","Syracuse","10","68","8",2016
+"South Carolina","7 ","73","Gonzaga","1","77","4",2017
+"Oregon","3 ","76","UNC","1","77","4",2017
+"Gonzaga","1 ","65","UNC","1","71","2",2017
+"Villanova","1","76","Mt St Mary's","16 ","56","64",2017
+"Wisconsin","8","84","Virginia Tech","9 ","74","64",2017
+"UVA","5","76","UNC Wilmington","12 ","71","64",2017
+"Florida","4","80","ETSU","13 ","65","64",2017
+"SMU","6 ","65","USC","11","66","64",2017
+"Baylor","3","91","New Mexico St","14 ","73","64",2017
+"South Carolina","7","93","Marquette","10 ","73","64",2017
+"Duke","2","87","Troy","15 ","65","64",2017
+"Villanova","1 ","62","Wisconsin","8","65","32",2017
+"UVA","5 ","39","Florida","4","65","32",2017
+"USC","11 ","78","Baylor","3","82","32",2017
+"South Carolina","7","88","Duke","2 ","81","32",2017
+"Wisconsin","8 ","83","Florida","4","84","16",2017
+"Baylor","3 ","50","South Carolina","7","70","16",2017
+"Florida","4 ","70","South Carolina","7","77","8",2017
+"Gonzaga","1","66","South Dakota St","16 ","46","64",2017
+"Northwestern","8","68","Vanderbilt","9 ","66","64",2017
+"Notre Dame","5","60","Princeton","12 ","58","64",2017
+"West Virginia","4","86","Bucknell","13 ","80","64",2017
+"Maryland","6 ","65","Xavier","11","76","64",2017
+"Florida State","3","86","FGCU","14 ","80","64",2017
+"Saint Mary's","7","85","VCU","10 ","77","64",2017
+"Arizona","2","100","North Dakota","15 ","82","64",2017
+"Gonzaga","1","79","Northwestern","8 ","73","32",2017
+"Notre Dame","5 ","71","West Virginia","4","83","32",2017
+"Xavier","11","91","Florida State","3 ","66","32",2017
+"Saint Mary's","7 ","60","Arizona","2","69","32",2017
+"Gonzaga","1","61","West Virginia","4 ","58","16",2017
+"Xavier","11","73","Arizona","2 ","71","16",2017
+"Gonzaga","1","83","Xavier","11 ","59","8",2017
+"Kansas","1","100","UC Davis","16 ","62","64",2017
+"Miami","8 ","58","Michigan State","9","78","64",2017
+"Iowa State","5","84","Nevada","12 ","73","64",2017
+"Purdue","4","80","Vermont","13 ","70","64",2017
+"Creighton","6 ","72","URI","11","84","64",2017
+"Oregon","3","93","Iona","14 ","77","64",2017
+"Michigan","7","92","Oklahoma State","10 ","91","64",2017
+"Louisville","2","78","Jacksonville St","15 ","63","64",2017
+"Kansas","1","90","Michigan State","9 ","70","32",2017
+"Iowa State","5 ","76","Purdue","4","80","32",2017
+"URI","11 ","72","Oregon","3","75","32",2017
+"Michigan","7","73","Louisville","2 ","69","32",2017
+"Kansas","1","98","Purdue","4 ","66","16",2017
+"Oregon","3","69","Michigan","7 ","68","16",2017
+"Kansas","1 ","60","Oregon","3","74","8",2017
+"UNC","1","103","Texas Southern","16 ","64","64",2017
+"Arkansas","8","77","Seton Hall","9 ","71","64",2017
+"Minnesota","5 ","72","Mid Tennessee","12","81","64",2017
+"Butler","4","76","Winthrop","13 ","64","64",2017
+"Cincinnati","6","75","Kansas State","11 ","61","64",2017
+"UCLA","3","97","Kent State","14 ","80","64",2017
+"Dayton","7 ","58","Wichita State","10","64","64",2017
+"Kentucky","2","79","N Kentucky","15 ","70","64",2017
+"UNC","1","72","Arkansas","8 ","65","32",2017
+"Mid Tennessee","12 ","65","Butler","4","74","32",2017
+"Cincinnati","6 ","67","UCLA","3","79","32",2017
+"Wichita State","10 ","62","Kentucky","2","65","32",2017
+"UNC","1","92","Butler","4 ","80","16",2017
+"UCLA","3 ","75","Kentucky","2","86","16",2017
+"UNC","1","75","Kentucky","2 ","73","8",2017
