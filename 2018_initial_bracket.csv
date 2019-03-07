@@ -1,0 +1,65 @@
+quadrant,round,rnd1,rnd2,rnd3,seed,teamname
+W,1,1,1,1,1,Virginia
+W,1,1,1,1,16,UMBC
+W,1,2,1,1,8,Creighton
+W,1,2,1,1,9,Kansas St.
+W,1,3,2,1,5,Kentucky
+W,1,3,2,1,12,Davidson
+W,1,4,2,1,4,Arizona
+W,1,4,2,1,13,Buffalo
+W,1,5,3,2,6,Miami
+W,1,5,3,2,11,Loyola
+W,1,6,3,2,3,Tennessee
+W,1,6,3,2,14,Wright St.
+W,1,7,4,2,7,Nevada
+W,1,7,4,2,10,Texas
+W,1,8,4,2,2,Cincinnati
+W,1,8,4,2,15,Georgia St.
+X,1,1,1,1,1,Villanova
+X,1,1,1,1,16,Radford
+X,1,2,1,1,8,Virginia Tech
+X,1,2,1,1,9,Alabama
+X,1,3,2,1,5,West Virginia
+X,1,3,2,1,12,Murray St.
+X,1,4,2,1,4,Wichita St.
+X,1,4,2,1,13,Marshall
+X,1,5,3,2,6,Florida
+X,1,5,3,2,11,St. Bonaventure
+X,1,6,3,2,3,Texas Tech
+X,1,6,3,2,14,Stephen F. Austin
+X,1,7,4,2,7,Arkansas
+X,1,7,4,2,10,Butler
+X,1,8,4,2,2,Purdue
+X,1,8,4,2,15,Cal St. Fullerton
+Y,1,1,1,1,1,Xavier
+Y,1,1,1,1,16,Texas Southern
+Y,1,2,1,1,8,Missouri
+Y,1,2,1,1,9,Florida St.
+Y,1,3,2,1,5,Ohio St.
+Y,1,3,2,1,12,South Dakota St.
+Y,1,4,2,1,4,Gonzaga
+Y,1,4,2,1,13,UNC Greensboro
+Y,1,5,3,2,6,Houston
+Y,1,5,3,2,11,San Diego St.
+Y,1,6,3,2,3,Michigan
+Y,1,6,3,2,14,Montana
+Y,1,7,4,2,7,Texas A&M
+Y,1,7,4,2,10,Providence
+Y,1,8,4,2,2,North Carolina
+Y,1,8,4,2,15,Lipscomb
+Z,1,1,1,1,1,Kansas
+Z,1,1,1,1,16,Penn
+Z,1,2,1,1,8,Seton Hall
+Z,1,2,1,1,9,North Carolina St.
+Z,1,3,2,1,5,Clemson
+Z,1,3,2,1,12,New Mexico St.
+Z,1,4,2,1,4,Auburn
+Z,1,4,2,1,13,Col. Of Charleston
+Z,1,5,3,2,6,TCU
+Z,1,5,3,2,11,Syracuse
+Z,1,6,3,2,3,Michigan St.
+Z,1,6,3,2,14,Bucknell
+Z,1,7,4,2,7,Rhode Island
+Z,1,7,4,2,10,Oklahoma
+Z,1,8,4,2,2,Duke
+Z,1,8,4,2,15,Iona
