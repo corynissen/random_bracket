@@ -1,9 +1,6 @@
 
 library("stringr")
 
-df <- read.csv("NCAA_mens_tournament_scores.csv", 
-               stringsAsFactors=FALSE)
-
 calc_prob_table <- function(df){
   # create string with seeds as "lowest seed:highest seed" eg: 3:14
   df$matchup <- paste0(apply(df[,c("team1_rank", "team2_rank")], 1, min), 
@@ -36,4 +33,6 @@ calc_prob_table <- function(df){
   matchup_tab$first <- matchup_tab$second <- NULL
   return(matchup_tab)
 }
+
+
   
